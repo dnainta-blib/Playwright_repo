@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../omniRoute"
+		},
+		{
+			"name": "git",
+			"path": "../git"
+		},
+		{
+			"name": "Dnainta_Playwright_Repo",
+			"path": "../git/Dnainta_Playwright_Repo"
+		}
+	],
+	"settings": {}
+}
